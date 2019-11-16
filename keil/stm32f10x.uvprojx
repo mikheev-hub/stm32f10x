@@ -380,9 +380,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>stm32f10x_exti.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\src\stm32f10x_exti.cpp</FilePath>
+              <FileName>stm32f10x_exti.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\stm32f10x_exti.c</FilePath>
             </File>
           </Files>
         </Group>
